@@ -1,0 +1,13 @@
+{
+    "1": {
+        "cusp": 19, 
+        "less": "Capricorn", 
+        "more": "Aquarius"
+    }, 
+
+    "2": {
+        "cusp": 19, 
+        "less": "Aquarius", 
+        "more": "Pisces"
+    }
+}
