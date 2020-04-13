@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zodiac/static/css/main.b4c81b25.chunk.css",
+    "main.js": "/zodiac/static/js/main.999cacfc.chunk.js",
+    "main.js.map": "/zodiac/static/js/main.999cacfc.chunk.js.map",
+    "runtime-main.js": "/zodiac/static/js/runtime-main.eaba4905.js",
+    "runtime-main.js.map": "/zodiac/static/js/runtime-main.eaba4905.js.map",
+    "static/js/2.452cf433.chunk.js": "/zodiac/static/js/2.452cf433.chunk.js",
+    "static/js/2.452cf433.chunk.js.map": "/zodiac/static/js/2.452cf433.chunk.js.map",
+    "index.html": "/zodiac/index.html",
+    "precache-manifest.2dfe35f1cb346b3de2f4c851416e2a40.js": "/zodiac/precache-manifest.2dfe35f1cb346b3de2f4c851416e2a40.js",
+    "service-worker.js": "/zodiac/service-worker.js",
+    "static/css/main.b4c81b25.chunk.css.map": "/zodiac/static/css/main.b4c81b25.chunk.css.map",
+    "static/js/2.452cf433.chunk.js.LICENSE.txt": "/zodiac/static/js/2.452cf433.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaba4905.js",
+    "static/js/2.452cf433.chunk.js",
+    "static/css/main.b4c81b25.chunk.css",
+    "static/js/main.999cacfc.chunk.js"
+  ]
+}
